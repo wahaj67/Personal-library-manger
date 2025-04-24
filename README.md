@@ -1,4 +1,4 @@
-                                                                                          CLI Based Library Manager Application
+                                    CLI Based Library Manager Application
     Features:
     1. Add Books.
     2. Remove Books.
